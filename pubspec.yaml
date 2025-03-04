@@ -1,0 +1,29 @@
+name: nn_helper
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  google_fonts: ^6.2.1
+  another_flutter_splash_screen: ^1.2.1
+  fluentui_system_icons: ^1.1.263
+  blur: ^4.0.0
+  get: ^4.6.6
+  http: ^1.2.2
+  hive_flutter: ^1.1.0
+  palette_generator: ^0.3.3+5
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/

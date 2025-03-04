@@ -1,0 +1,28 @@
+^C:\USERS\ILYA\DESKTOP\NN_HELPER-MAIN\BUILD\WINDOWS\X64\CMAKEFILES\5412937DEA2FC82394C937B02A1635E7\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\ilya\Documents\Flutter\flutter PROJECT_DIR=C:\Users\ilya\Desktop\nn_helper-main FLUTTER_ROOT=C:\Users\ilya\Documents\Flutter\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\ilya\Desktop\nn_helper-main\windows\flutter\ephemeral PROJECT_DIR=C:\Users\ilya\Desktop\nn_helper-main FLUTTER_TARGET=C:\Users\ilya\Desktop\nn_helper-main\lib\main.dart DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\ilya\Desktop\nn_helper-main\.dart_tool\package_config.json C:/Users/ilya/Documents/Flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ILYA\DESKTOP\NN_HELPER-MAIN\BUILD\WINDOWS\X64\CMAKEFILES\C1B2F433529D79B442E94503E506D943\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ILYA\DESKTOP\NN_HELPER-MAIN\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ilya/Desktop/nn_helper-main/windows -BC:/Users/ilya/Desktop/nn_helper-main/build/windows/x64 --check-stamp-file C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

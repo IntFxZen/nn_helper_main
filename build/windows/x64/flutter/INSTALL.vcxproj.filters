@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ilya\Desktop\nn_helper-main\build\windows\x64\CMakeFiles\c1b2f433529d79b442e94503e506d943\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{24E61F76-51B4-3E13-BE30-E0906AAE23C1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

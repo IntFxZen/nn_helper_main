@@ -1,0 +1,13 @@
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/nizhegorodskoj.png
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/nizhegorodskoj.svg
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Filled.ttf
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/packages/fluentui_system_icons/fonts/FluentSystemIcons-Regular.ttf
+C:/Users/ilya/Desktop/nn_helper-main/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
